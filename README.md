@@ -1,2 +1,3 @@
-# ositos-cari-ositos
+# ositos-cariñotos
 Tienda "ANIMALL"
+
