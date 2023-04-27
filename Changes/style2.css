@@ -1,0 +1,40 @@
+body{
+    background-color: #F1D7B6
+}
+.infoa{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.letrasa{
+    color: #ffffff;
+    display: flex;
+    position: absolute;
+    list-style: none;
+    left: 1000px;
+    top: 20px;
+}
+.logo{
+    position: absolute;
+    margin-top: -1px;
+}
+.buscador{ 
+    color: #F1D7B6;
+    background-color: #A15F2C;
+    border-radius: 16px;
+    width: 300px;
+    position: absolute;
+    left: 500px;
+    top: 45px;
+
+    
+}
+.l{
+    width: 100px;
+}
+.tronco{
+    width: 1368px;
+    margin-top: -300px;
+    margin-left: -20px;
+}
