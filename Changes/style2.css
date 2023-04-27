@@ -1,6 +1,21 @@
+/*
+estilos generales
+*/
+
 body{
     background-color: #F1D7B6
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/*
+estilos clases
+*/
+
 .infoa{
     position: relative;
     display: flex;
