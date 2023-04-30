@@ -105,3 +105,67 @@ estilos clases
     left: -722px;
     top: 65px;
 }
+/*
+cajas de productos
+*/
+.comprar:hover{
+    transform: scale(1.1);
+}
+.producto{
+    float: left;
+    width: 300px;
+    height: 458px;
+    box-shadow: 0 0 7px;
+    margin: 18px;
+    margin-block-end: 50px;
+}
+.juguetep img{
+    width: 280px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.infop{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.precio{
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    vertical-align: top;
+    margin-top: 20px;
+}
+.comprar{
+    border-radius: 15px;
+    background-color: #23533d;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    overflow: hidden;
+    transition: 0.5s;
+    object-fit: cover;
+}
+.flecha img{
+    width: 40px;
+    height: 20px;
+    margin-top: 16px;
+    object-fit: cover;
+}
+.tcomprar{
+    justify-content: center;
+    padding-right: 80px;
+    padding-left: 20px;
+    color: #ffffff;
+    object-fit: cover;
+}
+.jugueteg img{
+    width: 280px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
