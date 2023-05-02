@@ -140,8 +140,9 @@ cajas de productos
 }
 .comprar{
     border-radius: 15px;
-    background-color: #23533d;
+    background-color: #C1873C;
     display: flex;
+    height: 50px;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10px;
@@ -151,15 +152,17 @@ cajas de productos
 }
 .flecha img{
     width: 40px;
-    height: 20px;
-    margin-top: 16px;
+    height: 30px;
+    margin-top: 10px;
     object-fit: cover;
 }
-.tcomprar{
+.tcomprar img{
     justify-content: center;
-    padding-right: 80px;
-    padding-left: 20px;
-    color: #ffffff;
+    width: 160px;
+    height: 30px;
+    margin-left: 5px;
+    margin-right: 54px;
+    margin-top: -6px;
     object-fit: cover;
 }
 .jugueteg img{
