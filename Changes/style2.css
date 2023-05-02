@@ -1,9 +1,11 @@
 /*
 estilos generales
 */
-
+nav{
+    width: vh;
+}
 body{
-    background-color: #F1D7B6
+    background-color: #F1D7B6;
 }
 
 a {
@@ -56,7 +58,7 @@ estilos clases
     display: flex;
     position: absolute;
     list-style: none;
-    left: 1050px;
+    left: 1015px;
     top: 20px;
 }
 .letrasb{
@@ -94,16 +96,16 @@ estilos clases
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 330px;
     position: absolute;
-    left: -891px;
-    top: 65px;
+    left: 160px;
+    top: 100px;
 }
 .frase2{
     color: #9D8678;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 330px;
     position: absolute;
-    left: -722px;
-    top: 65px;
+    left: 330px;
+    top: 100px;
 }
 /*
 cajas de productos
